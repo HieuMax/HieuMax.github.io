@@ -1,0 +1,1484 @@
+*{
+    margin: 0 auto;
+
+}
+.red{
+    color: rgb(202, 2, 2);
+}
+
+body {
+    box-sizing: border-box;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;   
+    line-height: 20px;
+    margin: 0;
+    overflow: auto;
+    text-size-adjust: 100%;
+    height: 9138.38px;
+
+}
+.border {
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    z-index: 100;
+    margin-left: ;
+}
+header {
+
+    height: 92px;
+    background-color: #252525;
+
+    margin: 0 auto;
+}
+.main-content{
+    width: 1240px;
+    margin: 0 auto;
+}
+.banner-logo {
+    height: 56px;
+    background-color: #cd1818;
+    padding: 0 8px;
+    margin: 0 auto;
+}
+
+.f-logo {
+    background-image: url(./images/logo.webp);
+    z-index: 2;
+    height: 56px;
+    width: 153px;
+    position: relative;
+    top: 3px;
+    
+    float: left;
+}
+
+.search-bar{
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+.li-banner-logo{
+    display: inline;
+    margin: 0 auto;
+    float: left;
+    margin-left: 27px;
+}
+
+#white{
+    color:white;
+}
+
+.div-col-banner{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 10px;
+}
+
+.a-div-col-banner{
+    color: white;
+    text-decoration: none;
+}
+
+.search-bar-menu{
+    width: 438px;
+    height: 38px;
+    margin-top: 8px;
+    border-radius: 2px;
+    border: none;
+    padding: 0 5px;
+}
+
+#icon-search{
+    background-color: rgb(55, 55, 55);
+    height: 40px;
+    width: 45px;
+    display: inline-block;
+    position: relative;
+    right:8px;
+    bottom: 10px;
+    
+}
+
+#id-icon-search{
+    color:white;
+    position: relative;
+    top: 10px;
+    left: 5px;
+    
+    border-radius: 2px;
+}
+
+.block-menu{
+    display: block;
+    padding: 0 35px;
+}
+
+.block-menu-giohang{
+    display: block;
+    padding: 0 15px;
+    position: relative;
+    
+}
+
+.block-menu-thanhtoan{
+    display: block;
+    padding: 0 57px;
+}
+
+.block-menu-taikhoan{
+    display: block;
+    padding: 0 40px;
+}
+
+        /* banner-menu-bottom*/
+.main-content-item{
+    width: 1270px;
+    margin: 0 auto;
+}
+.banner-logo-items {
+    height: 36px;
+    z-index: 20;
+    background-color: #252525;
+}
+
+.li-banner-item{
+    display: inline;
+    float: left;
+    margin: 0 auto;
+    margin-left: 22px;
+    margin-top: 8px;
+    position: relative;
+    right: 15px;
+}
+
+.a-banner-item {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.a-banner-item:hover{
+    color: #808080;
+}
+
+.ul-banner-item{
+    float: left;
+    height: 36px;
+    margin-left: -12px;
+}
+
+
+            /*Wrap background*/
+.wrap-background{
+    background-image: url(./images/12-12-background.webp);
+    background-color: #252525;
+    margin-top: 36px ;
+    height: 600px;
+    z-index: 2;
+
+}
+
+.img-discount{
+    position: absolute;
+    width: 1066.66px;
+    height: px;
+    left: 50%;
+    top: 105px;
+    transform: matrix(1, 0, 0, 1, -533.2, 0);
+    transform: translateX(-50%);
+    fill: transparent;
+
+}
+
+.div-sale{
+    position:absolute;
+    left: 39%;
+    top: 290px;
+    color: white;
+}
+
+.div-a-sale{
+    color: white;
+    text-decoration: no;
+}
+
+.set-time{
+    color: rgb(255, 212, 39);
+    font-size: 25px;
+}
+
+.sp-set-time-out{
+    font-size: 18px;
+}
+
+.wrap-background-color{
+    position: relative;
+    background-color: #252525;
+    height: 8150.38px;
+    margin-top: -240px;
+}
+
+                                                    /*Box content 1*/
+.main-block-content{
+    height: 355px;
+    width: 1190px;
+    padding: 5px 5px 0 5px;
+    margin: 240px auto;
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+}
+
+
+.block-content-1-left{
+    float: left;
+    height: 300px;
+    width: 800px;
+    background-color: pink;
+}
+
+.block-content-1-right{
+    float: right;
+    height: 100px;
+    width: 385px;
+    background-color: blue;
+}
+
+.block-content-1-right-img{
+    height: 100px;
+    width: 385px;
+    margin-bottom: 5px;
+}
+
+.block-content-info{
+    display: block;
+    margin-left: 5px;
+}
+
+.a-xemtatca{
+    position: relative;
+    color: blue;
+    text-decoration: none;
+    left: 190px;
+    
+}
+
+.li-block-content-info{
+    display: inline-block;
+}
+
+.h4-thongtin-noibat{
+    color: gray;
+}
+
+.sp-block-content-corner-right{
+    color: black;
+    text-decoration: none;
+
+}
+
+.sp-block-content-corner-right{
+    text-decoration: none;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+
+.div-block-corner-right{
+    margin-left: 10px;
+    margin-top: 15px;
+    display: block;
+}
+
+.a-div-block-corner-right{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    position: relative;
+    display: block;
+}
+
+.li-block-content-1-left{
+    width: 136.8px;
+    height: 45px;
+    padding: 10px 10px 0 10px;
+    display: inline-block;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    top: 300px;
+    right: 40px;
+
+}
+
+.ul-block-content-1{
+    float: left;
+    width: 800px;
+    position:absolute;
+    color: wheat;
+    width: 100%;
+}
+
+.a-block-content-1-left{
+    color: black;
+    text-decoration: none;
+}
+
+.a-block-content-1-left:hover{
+    font-weight: bold;
+}
+
+                                                    /* Box content 2 */
+.block-content-2{
+    height: 300.6px;
+    width: 1184px;
+    padding: 0 8px;
+    background-color: white;
+    position: relative;
+    right: 5px;
+    top: 380px;
+    border-radius: 5px;
+    z-index: 20;
+}
+
+.li-block-content-2-row{
+    width: 166.325px;
+    height: 119.3px;
+    padding: 15px;
+
+    display: inline;
+    float: left;
+
+    margin: 0 auto;
+}
+
+.block-content-2-row-1{
+    float: left;
+    position:absolute;
+    top: 0px;
+    margin-top: 0;
+}
+
+.block-content-2-row-2{
+    float: left;
+    position: absolute;
+    top: 150px;
+    
+}
+
+.a-icon-block-content-2{
+    position: relative;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 166.325px;
+    height: 119.3px;
+    padding:15px;
+    bottom: 16px;
+    right: 15px;
+
+}
+
+.a-icon-block-content-2:hover {
+    border-radius: 5px;
+
+    box-shadow: 0 8px 16px 0px gray;
+}
+
+.img-icon-block-content-2{
+    margin: 0 auto;
+}
+
+.sub-icon{
+    margin-top: 20px;
+}
+
+
+        /* Banner 2 */
+.banner-2{
+    height: 100px;
+    width: 1184px;
+    position: relative;
+    right: 8px;
+    top: 400px;
+    z-index: 21;
+}
+
+        /* Box Khuyến Mãi Hot*/
+.box-khuyenmai-hot{
+    height: 516px;
+    width: 1184px;
+    padding: 0 8px;
+    padding-top: 15px ;
+    padding-bottom: 20px;
+    background-color: white;
+    z-index: 20;
+    position: relative;
+    top: 424px;
+    border-radius: 5px;
+    margin: 0 -3px;
+}
+
+.h1-box-khuyenmai-hot{
+    color: rgb(197, 0, 0);
+    margin-left: 10px;
+    margin: 10px;
+    font-size: 22px;
+    margin-bottom: 22px;
+}
+
+.block-khuyenmai, .block_phone_spec, .block_laptop{
+    height: 414.8px;
+    width: 272px;
+    padding: 11px;
+    padding-bottom: 25px;
+    /* border: 1px solid red; */
+    border-radius: 5px;
+    float: left;
+}
+
+.block-khuyenmai:hover , .block_phone_spec:hover, .block_laptop:hover{
+    box-shadow: 0px 8px 8px 0px gray;
+    border-radius: 5px;
+}
+
+.block-khuyenmai:hover .img-khuyenmaihot, .block_phone_spec:hover .img-khuyenmaihot, .block_laptop:hover .img-khuyenmaihot{
+    transform: scale(1.055);
+    transition: 1s;
+    
+}
+
+.img-khuyenmaihot{
+    height: 168px;
+    width: 168px;
+    display: block;
+    position: relative;
+    bottom: 160px;
+}
+
+.box-img-khuyenmaihot{
+    width: 272px;
+    height: 20px;
+    padding-top: 214px;
+    display: block;
+    border: 1px solid red;
+    border-bottom: none;
+    border-radius: 10px;
+    background-image: url(./images/Khuyen-mai-hot/638047332150307069_frame-cate-270x210.webp);
+    background-repeat: no-repeat; 
+    background-position: center center;
+    background-size: cover;
+}
+
+/* .box-img-khuyenmaihot:hover{
+    box-shadow: 0px 8px 16px 0px gray;
+    object-fit: cover;
+} */
+
+.Giam-box-khuyenmai-hot, .tragop-box-khuyenmai-hot{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    float: left;
+    display: inline;
+    padding: 1px 5px;
+}
+.Giam-box-khuyenmai-hot{
+    background-color: rgb(207, 0, 0);
+    position: absolute;
+    bottom: 255px;
+
+}
+.tragop-box-khuyenmai-hot{
+    background-color: rgb(218, 142, 0);
+    position: absolute;
+    bottom: 280px;
+}
+
+.a-box-khuyenmai{
+    text-decoration: none;
+}
+
+.a-name-box-khuyenmai{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.79);
+    font-size: 16px;
+    position: relative;
+    top: 12px;
+}
+
+.a-name-box-khuyenmai:hover{
+    color: rgb(46, 46, 255);
+}
+
+        /* Price box 1 */
+.price{
+    background: linear-gradient(to left,rgb(255, 137, 137), red);
+    padding: 2px 6px;
+    color: white;
+    font-size:18px;
+    border-radius: 20px;
+}
+
+.li-price, .li-price-right{
+    display: inline;
+    top: 25px;
+    position: relative;
+    color: gray;
+    font-size: 14px;
+}
+.li-price{
+    top: 30px;
+}
+
+.li-price-right{
+    float: right;
+    display: flex;
+    flex-direction: column;
+    top: 18px
+}
+
+.payment-icon{
+    display: inline-block;
+    position: relative;
+    top: 43px;
+    padding-left: 5px;
+    left: 10px;
+    margin: 0 auto;
+    align-items: center;
+
+}
+
+.payment-icon:hover {
+    box-shadow: 0px 4px 16px 0px gray;
+    border-radius: 5000px;
+    
+}
+
+.img-payment-icon{
+    display: block;
+    margin: 0 auto;
+    border-radius: 200px;
+    position: relative;
+    right: 2px;
+
+
+}
+
+    /*Img icon box 1 */
+    .div_sub_payment_tp, #sub_payment_redivo, #sub_payment_tp, #sub_payment_vnpay, #sub_payment_moca_2line, #sub_payment_moca{
+        top: 30px;
+        font-size: 13px;
+        color:gray;
+        position: absolute;
+        margin-left: 10px;
+        min-width: 272px;
+        margin: 0 auto;
+        float: left;
+    }
+    
+                .div_sub_payment_tp{
+                    display: none;
+                    float: left;
+                }
+    
+    #sub_payment_redivo{
+    display: none;
+    float: left;
+    }
+    #sub_payment_tp{
+        display: inline;
+    }
+    .li-payment-price{
+        display: inline-block;
+      
+    }
+    #payment-moca-2line{
+        position: absolute;
+        top: 420px;
+    }
+    #payment-moca{
+        position: absolute;
+        top: 400px;
+    }
+
+
+    
+    
+    .payment-icon-child{
+        display: inline-block;
+        margin-left: 5px;
+        position: relative;
+        top: 42px;
+        border-radius: 200px;
+        float: left;
+    }
+    
+    .payment-icon-child:hover .img-payment-icon{
+        box-shadow: 0px 4px 16px 0px gray;
+    }
+    .payment-icon-child:hover .div_sub_payment_tp{
+        display: block;
+    }
+    .payment-icon-child:hover #sub_payment_redivo{
+        position: relative;
+        right: 50px;
+        display: block;
+        float: left;
+    }
+    .payment-icon-child:hover #sub_payment_vnpay{
+        position: relative;
+        right: 100px;
+        display: block;
+        float: left;
+    }
+    .payment-icon-child:hover #sub_payment_moca_2line{
+        right: 155px;
+        bottom: 200px;
+    }
+    .payment-icon-child:hover #sub_payment_moca{
+        right: 155px;
+        bottom: 200px;
+    }
+
+    
+    
+    .payment-icon{
+        display: inline-block;
+        position: relative;
+        top: 43px;
+        padding-left: 5px;
+        left: 10px;
+        margin: 0 auto;
+        align-items: center;
+
+    }
+    
+            .payment-icon:hover {
+                box-shadow: 0px 4px 16px 0px gray;
+            }
+    
+    .img-payment-icon{
+        display: block;
+        margin: 0 auto;
+        border-radius: 200px;
+        position: relative;
+        right: 2px;
+
+    }
+
+        /* Banner apple*/
+.wrap-banner-apple{
+    background-image: url(./images/apple-banner-offici.webp);
+    background-repeat: no-repeat;
+    z-index: 2;
+    width: 1184px;
+    height: 692px;
+    padding: 0 8px;
+    margin: 0 -5px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    margin-top: 450px;
+    border-radius: 5px;
+}
+
+
+            /* Img child banner apple */
+        .li-img-apple-banner{
+            display: inline-block;
+            margin-top: 175px;
+            padding-left: 20px;
+            position: relative;
+            left: 40px;
+        }
+
+        .img-child-apple-banner{
+            height: 336px;
+            width: 250px;
+        }
+
+            /* Nút đặt mua ngay của banner apple */
+        .order-banner-apple{
+            width: 516px;
+            height: 52px;
+            margin: 0 auto;
+            display: block;
+            margin-top: 15px;
+        }
+
+        /* OPPO box */
+.oppo_box{
+    height: 481px;
+    width: 1168px;
+    padding: 20px 16px;
+    background-color: white;
+    z-index: 30;
+    position: relative;
+    border-radius: 5px;
+    margin: 0 -5px;
+    margin-top: 24px;
+}
+                /* Banner OPPO box */
+            .banner_oppo{
+                border-radius: 5px;
+            }
+
+                /* Img OPPO Box */
+            .li_oppo_box{
+                display: inline;
+            }
+
+            .img_oppo_box{
+                padding: 12px;
+                margin: 0 auto;
+                margin-left: 3px;
+            }
+
+            .img_oppo_box:hover {
+                box-shadow: 0px 4px 8px 0px gray;
+                border-radius: 5px;
+            }   
+
+        /* Banner 3 */
+.banner_3{
+    width: 1203px;
+    height: 200px;
+    border-radius: 5px;
+    z-index: 3;
+    position: relative;
+    margin: 0 -3px;
+    margin-top: 12px;
+}
+
+
+        /* Điện thoại nổi bật - Box phone spec*/
+.h2_phone_spec{
+    margin: 10px;
+}
+.h4_phone_spec{
+    
+    position: absolute;
+    left: 1100px;
+    top: 25px;
+}
+.a_h4_phone_spec{
+    color: rgb(87, 87, 254);
+}
+
+.box_phone_spec{
+    height: 1082px;
+    width: 1184px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+}
+.Giam-box-phone-spec, .tragop-box-phone-spec{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    float: left;
+    display: inline;
+    padding: 1px 5px;
+}
+.tragop-box-phone-spec{
+    background-color: rgb(218, 142, 0);
+    position: absolute;
+    top: 250px;
+}
+.Giam-box-phone-spec{
+    background-color: rgb(207, 0, 0);
+    position: absolute;
+    top: 280px;
+}
+
+.block_phone_spec{
+    height: 482.4px !important;
+    width: 272px !important;
+    padding: 12px !important;
+    margin-bottom: 20px;
+}
+
+#payment-moca-box-spec{
+    position: absolute;
+    top: 445px;
+}
+
+.chip_phone_box{
+    width: 246px;
+    height: 57.6px;
+    position: relative;
+    top: 45px;
+}
+
+.li_chip_phone_box{
+    padding: 0 10px;
+    font-size: 13.5px;
+    color: gray;
+    display: inline-flex;
+}
+
+.ul_chip_phone_box{
+    position: absolute;
+    box-sizing: border-box;
+    display: inline-table;
+    margin-left: -35px;
+    padding-left: 25px;
+    max-width: 300px;
+    margin-right: -40px;
+}
+
+/* Button Mua Ngay - Phone Spec Box */
+.block_phone_spec:hover .btn-mua-ngay, .block_phone_spec:hover .btn-mua-ngay-2line, .block_laptop:hover .btn-mua-ngay,
+.block_laptop:hover .btn-mua-ngay-2line {
+    display: block;
+    transition: all 1.5s;
+}
+
+.a-btn-mua-ngay, .a-so-sanh-btn, .a-btn-mua-ngay-2line, .a-so-sanh-btn-2line{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    display: block;
+    font-size: 17px;
+}
+.a-btn-mua-ngay, .a-btn-mua-ngay-2line{
+    background-color: rgb(215, 0, 0);
+    float: left;
+    margin: 0 auto;
+    padding: 8px 22px;
+}
+.a-so-sanh-btn, .a-so-sanh-btn-2line{
+    background-color: rgb(161, 161, 161);
+    float: right;
+    padding-right: 50px;
+    padding: 8px 22px;
+}
+
+.btn-mua-ngay, .btn-mua-ngay-2line{
+    position: relative;
+    margin-top: 130px;
+    width: 272px;
+    background-color: white;
+    height: fit-content;
+    display: none;
+}
+.btn-mua-ngay-2line{
+    margin-top: 115px;
+}
+
+.a-btn-mua-ngay:hover , .btn-mua-ngay-2line:hover{
+    background-color: rgb(190, 0, 0);
+}
+.a-so-sanh-btn:hover, .a-so-sanh-btn:hover{
+    background-color: gray;
+}
+
+/* Banner 4 */
+.banner-4{
+    width: 1203px;
+    height: 205px;
+    border-radius: 5px;
+    z-index: 3;
+    position: relative;
+    margin: 0 -3px;
+    margin-top: 12px;
+}
+
+/* Box Laptop bán chạy*/
+.laptop_ban_chay{
+    width: 1184px;
+    height: 1278.6px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+}
+
+.block_laptop{
+    height: 554.4px !important;
+    width: 272px !important;
+    padding: 12px !important;
+    margin-bottom: 50px;
+}
+
+.payment-icon-laptop{
+    top: 100px;
+}
+
+.payment-icon-laptop-line{
+    top: 120px;
+}
+
+.a-btn-mua-ngay-laptop, .a-so-sanh-btn-laptop{
+    position: relative;
+    top: 50px;
+}
+.a-btn-mua-ngay-laptop-line, .a-so-sanh-btn-laptop-line {
+    position: relative;
+    top: 70px;
+}
+.li_laptop_box{
+    margin-bottom: 10px;
+}
+
+/* Tablet ban chay*/
+.tablet_spec{
+    width: 1184px;
+    height: 545.4px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+}
+
+/* Suggestion Today */
+.suggestion_today{
+    width: 1184px;
+    height: 1257.8px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+}
+.li_suggestion {
+    display: inline-block;
+    color: gray;
+    float: left;
+    border-radius: 5px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.a_select_suggestion_today{
+    color: gray;
+    text-decoration: none;
+}
+
+.li_suggestion:hover .a_select_suggestion_today{
+    color: white;
+}
+.a_select_suggestion_today:hover .li_suggestion{
+    color: white;
+}
+
+.li_suggestion:hover{
+    background-color: rgb(150, 150, 150);
+}
+/*.li_suggestion:active{
+    background-color: red;
+}*/
+.background-red{
+    background-color: red;
+    color: white;
+    z-index: 100;
+}
+
+
+/* Button Suggestion Today */
+.btn_select_suggestion_today{
+    padding: 5px 20px;
+    border: 1px solid rgb(165, 165, 165);
+    border-radius: 3px;
+}
+.btn_select_suggestion_today:hover{
+    color: white;
+    background-color: rgb(171, 171, 171);
+}
+.line_monopoly_box{
+    margin: 20px;
+    height: 20px;
+}
+
+
+        /* Monopoly */
+.block_monopoly{
+    margin-top: 15px;
+}
+.monopoly_box{
+    display: block;
+}
+#a_monopoly:active .monopoly_box{
+    display: block;
+}
+
+
+        /* Top Search */
+.top_search_box{
+    display: none;
+}
+
+
+        /* 299k */
+._299k_box{
+    display: none;
+}
+
+
+
+
+/* Online Payment */
+.uudai_online_payment{
+    width: 1184px;
+    height: 211.312px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+}
+.box_img_payMO{
+    display: flex;
+    justify-content: space-around;
+}
+.img_payMO{
+    border-radius: 5px;
+    width: 31%;
+}
+.h2_payMO{
+    margin: 10px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+/* Dịch vụ tiện ích - Convenient Service */
+.convenient_service{
+    width: 1184px;
+    height: 136px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+
+}
+.service_box{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 74px;
+    padding: 12px;
+
+}
+.service_box_child{
+    width: 248.5px;
+}
+.h3_service{
+    float: right;
+    color: black;
+}
+.item_service{
+    float: left;
+    margin-right: 10px;
+    margin: 0;
+}
+
+.water-service{
+    background-color: rgba(0, 190, 0, 0.115);
+    border: 1px solid rgba(0, 209, 0, 0.234);
+    border-radius: 5px;
+    height: 60px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.elec-service{
+    background-color: rgba(174, 190, 0, 0.115);
+    border: 1px solid rgba(174, 190, 0, 0.234);
+    border-radius: 5px;
+    height: 60px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.card-service{
+    background-color: rgba(0, 85, 190, 0.115);
+    border: 1px solid rgba(0, 85, 190, 0.234);
+    border-radius: 5px;
+    height: 60px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.credit-service{
+    background-color: rgba(190, 13, 0, 0.115);
+    border: 1px solid rgba(190, 13, 0, 0.234);
+    border-radius: 5px;
+    height: 60px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.p_service{
+    color: black;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+}
+.div_box_service{
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+}
+
+
+/* Phụ kiện HOT */
+.phukien_hot{
+    width: 1184px;
+    height: 320px;
+    border-radius: 5px;
+    padding: 15px 8px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    margin-top: 36px;
+}
+.box_phukien{
+    display: flex;
+    justify-content: center;
+}
+.box_phukien_child{
+    height: 129px;
+    width: 127px;
+    padding: 5px 10px;
+    color: rgb(90, 90, 90);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.box_phukien_child:hover{
+    box-shadow: 0px 4px 8px 0px rgba(128, 128, 128, 0.5);
+
+}
+.danmanhinh{
+    position: relative;
+    top: 20px;
+}
+.h2_phukien{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+/* On Footer */
+.on_footer{
+    width: 1184px;
+    height: 115px;
+    border-radius: 5px;
+    padding: 8px 3px;
+    position: relative;
+    z-index: 3;
+    margin: 0 -3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img_on_footer{
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+
+/* Footer TOP */
+.footer-top{
+    background-color: white;
+    height: 210px;
+    display:flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    
+}
+.box_footer_top{
+    display: block;
+    width: 215px;
+    padding: 0 12px;
+    z-index: 20;
+    margin-top: 24px;
+    float: left;
+    margin-left: -40px;
+}
+.li_a_box_footer_top{
+    display: inline-block;
+    padding: 4px 0;
+
+}
+.a_box_footer_top{
+    color: #3399d2;
+}
+.a_box_footer_top:hover{
+    color: black;
+    text-decoration: underline;
+}
+.box2_footer_top{
+    width: 178px;
+    padding-left: 30px;
+}
+.box3_footer_top{
+    padding-left: 60px;
+}
+.box4_footer_top{
+    width: 528.438px;
+
+}
+.ul_footer_top{
+    position: relative;
+    width: 528.438px;
+}
+.li_right_box_footer_top{
+    float: left;
+    display: inline;
+    padding: 0 20px;
+}
+.p_footer_top{
+    color: #4a4a4a;
+    font-weight: bold;
+    padding: 5px 0;
+}
+.number_phone{
+    color: #D0021B;
+    font-size: 20px;
+    font-weight: bold;
+}
+.icon_footer_top{
+    height: 130.825px;
+    width: 528.438px;
+    margin-top: 110px;
+    margin-left: 20px;
+}
+.ul_icon_ho_tro{
+    display: inline-block;
+    clear: both;
+}
+.icon_ho_tro_thanh_toan{
+    display: inline;
+    float: ;
+}
+.img_icon_ho_tro{
+    float: left;
+    display: inline-block;
+    margin: 1px;
+    position: relative;
+    right: 47px;
+}
+.ATM_icon{
+    font-weight: bold;
+    color: white;
+    background-color: #898989;
+    padding: 6.5px;
+    border-radius: 5px;
+    margin-top: 9px;
+    margin-left: 2px;
+}
+.icon_ho_tro_thanh_toan_bottom{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-top: -18px;
+    margin-left: -18px;
+}
+.ul_icon_footer_top{
+    width: 221px;
+    float: left;
+}
+.ul_icon_footer_top_right{
+    position: relative;
+    box-sizing: border-box;
+    width: 260px;
+    right: 30px;
+}
+.img_icon_chung_nhan{
+    float: left;
+    width: max-content;
+}
+
+/*Footer Bottom*/
+.footer-bottom{
+    background-color: #f2f2f2;
+    height: 40px;
+    margin-bottom: 0px;
+    z-index: 100;
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+.p_footer_bottom{
+    text-align: center;
+    font-size:x-small;
+    color: #6d6d6d;
+}
+
+.wrap-background-color-footer-top{
+    background-color: white;
+    height: 241.025px;
+    position: relative;
+    top: 8000px;
+    z-index: 0;
+}
+
+            /* Box Child - Menu item*/
+.box_child{
+    height: 280px;
+    width: 1200px;
+    position: absolute;
+    top: 27px;
+    z-index: 10;
+    display: grid;
+    grid-template-columns: 400px 150px 400px 250px;
+    grid-template-rows: 280px;
+    grid-template-areas: "area1 area2 area3 area4";
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 50px;
+    transition: all 0.5s ease-out;
+    opacity: 0;
+}
+.box_child_laptop{
+    margin-left: -115px;
+    height: 320px;
+    grid-template-rows: 320px;
+}
+.box_child_ipad{
+    margin-left: -215px;
+}
+/*Box children Dien Thoai*/
+
+.mobile:hover .box_child, .laptop:hover .box_child, .ipad:hover .box_child{
+    visibility: visible;
+    transition: all 0.5s ease-in;
+    transform: translateY(-50px);
+    opacity: 100%;
+}
+.li-banner-item .box_child{
+    visibility: hidden;
+}
+.box_children1{
+    grid-area: area1;
+    background-color: #fff;
+    display: flex;
+    z-index: 10;
+    flex-direction: column;
+    border-radius: 5px;
+}
+.hang_sv:hover{
+    color: #3399d2;
+    transition: all 0.2s ease-in-out;
+}
+
+.hang_sv{
+    position: relative;
+    color: black;
+    height: fit-content;
+    margin-top: 10px;
+    width: 100px;
+    /*background-color: red;*/
+    display: inline-block;
+    margin-left: 22px;
+}
+.hang_sv_2line{
+    width: 120px;
+}
+
+
+.box_child h4{
+    float: left;
+    /*background-color: red;*/
+    display: flex;
+    width: 400px;
+    height: fit-content;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.box_children2{
+    grid-area: area2;
+    border-left: 1px solid black;
+    width: 150px;
+    z-index: 10;
+}
+
+.box_children3{
+    grid-area: area3;
+    border-left: 1px solid black;
+    width: 400px;
+    z-index: 11;
+    display: flex;
+    flex-direction: column;
+}
+.box_children4{
+    grid-area: area4;
+    width: 250px;
+
+    position: relative;
+    right: 10px
+}
+
+.best_sell_box_children{
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    display: flex;
+    color: black;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.best_sell_box_children h5{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.best_sell_box_children span{
+    
+    color: rgb(210, 0, 0);
+}
+.best_sell_box_children:hover{
+    box-shadow: 0px 8px 8px 0px #b3b3b3;
+    transition: all 0.5s;
+    padding: 5px;
+}
+
+.box_children4:hover img{
+    box-shadow: 0px 8px 8px 0px #b3b3b3;
+    transition: all 0.5s;
+}
+
+/*Box children Laptop*/
+.box_children4_laptop{
+    width: fit-content;
+    position: relative;
+    right: 150px;
+
+}
+
+.laptop .box_children2{
+    border-right: 1px solid black;
+    padding-right: 120px;
+}
+
+/*Box children iPad*/
+.ipad .best_sell_box_children{
+    width: 370px;
+}
